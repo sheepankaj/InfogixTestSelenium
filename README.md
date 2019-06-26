@@ -2,7 +2,7 @@
 Testing is performed by using selenium WebDriver and TestNG for GitHub login & Sign Up related to below test scenarios. 
 [GitHub](http://www.github.com/)
 
-##Test Scenarios:
+## Test Scenarios:<h2>
 * Verify that by clicking on "Sign in" button user is redirected to login page
 * Verify that username and password fields are mandatory in login page
 * Verify that inserting m.ie into email field in reset_password page displays message "Can't find that email, sorry."

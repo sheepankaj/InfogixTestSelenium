@@ -1,5 +1,5 @@
 # InfogixTestSelenium
-Testing is performed by using selenium WebDriver and TestNG for GitHub login & Sign Up related to below test scenarios. 
+Testing is performed by using selenium WebDriver and TestNG in Java language for GitHub login & Sign Up related to below test scenarios. 
 [GitHub](http://www.github.com/)
 
 ## Test Scenarios:<h2>
